@@ -1,7 +1,6 @@
 cargo-bin-lib
 =============
 [![crates.io](http://meritbadge.herokuapp.com/cargo-bin-lib)](https://crates.io/crates/cargo-bin-lib)
-[![Docs](https://docs.rs/cargo-bin-lib/badge.svg)](http://docs.rs/cargo-bin-lib)
 
 Cargo subcommand for more ergonomically creating a `bin` or `lib` crate.
 

@@ -4,7 +4,6 @@ version = "0.1.0"
 authors = ["ramn <github@rymdimperiet.org>"]
 description = "Cargo subcommand for more ergonomically creating a `bin` or `lib` crate."
 
-documentation = "https://docs.rs/cargo-bin-lib"
 homepage = "https://github.com/ramn/cargo-bin-lib"
 repository = "https://github.com/ramn/cargo-bin-lib"
 license = "Apache-2.0"
